@@ -44,8 +44,8 @@ interests:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
-    link: "mailto:ylin2@ufl.edu" 
+  icon_pack: fas
+  link: "mailto:ylin2@ufl.edu" 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lesterlin
